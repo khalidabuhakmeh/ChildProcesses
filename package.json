@@ -1,0 +1,13 @@
+{
+  "name": "ChildProcesses",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "watch": "parcel watch ./src/index.html"
+  }
+}
